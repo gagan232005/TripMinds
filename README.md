@@ -13,11 +13,10 @@ A multi-agent AI travel planner that turns natural-language trip requests into b
 
 ## 📸 Screenshots
 
-### 💬 Conversational Trip Design
+### 🏠 Landing Page
+<img width="1857" height="887" alt="image" src="https://github.com/user-attachments/assets/a78e29dd-0e1c-43df-a55c-011034e97ac2" />
 
-### 🧭 Generated Itinerary
 
-### 💰 Budget Breakdown & Optimization
 
 ## Features
 
