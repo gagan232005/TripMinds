@@ -15,7 +15,8 @@ A multi-agent AI travel planner that turns natural-language trip requests into b
 
 ### 🏠 Landing Page
 
-![Screenshot 2026-09-12 195916.png](../../../Pictures/Screenshots/Screenshot%202026-09-12%20195916.png)
+<img width="1876" height="916" alt="image" src="https://github.com/user-attachments/assets/2cd54ab2-41a3-4d5b-b8a6-96943e03bdb6" />
+
 *Chat-first planning with live multi-agent orchestration trace — transport, stay, activity, and budget agents shown resolving in real time.*
 ## Features
 
