@@ -1,4 +1,6 @@
-##TripMinds — A multi-agent AI travel planner that turns natural-language trip requests into budget-validated, day-by-day itineraries, using parallel specialist agents and a deterministic cost-optimization engine.
+## TripMinds
+
+A multi-agent AI travel planner that turns natural-language trip requests into budget-validated, day-by-day itineraries, using parallel specialist agents and a deterministic cost-optimization engine.
 
 ## 🛠️ Technology
 
