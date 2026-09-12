@@ -1,7 +1,7 @@
 ## TripMinds
 
 A multi-agent AI travel planner that turns natural-language trip requests into budget-validated, day-by-day itineraries, using parallel specialist agents and a deterministic cost-optimization engine.
-<<<<<<< HEAD
+
 ## 🛠️ Technology
 
 ![Node.js](https://img.shields.io/badge/Node.js-Runtime-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -19,27 +19,6 @@ A multi-agent AI travel planner that turns natural-language trip requests into b
 *Chat-first planning with live multi-agent orchestration trace — transport, stay, activity, and budget agents shown resolving in real time.*
 ## Features
 
-=======
-
-## 🛠️ Technology
-
-![Node.js](https://img.shields.io/badge/Node.js-Runtime-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-4-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-8-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES2022-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI--Compatible-Optional_LLM-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-## 📸 Screenshots
-
-### 🏠 Landing Page
-<img width="1857" height="887" alt="image" src="https://github.com/user-attachments/assets/a78e29dd-0e1c-43df-a55c-011034e97ac2" />
-
-
-
-## Features
-
->>>>>>> 4bc70c7b05972a892e93c0590b431a77aac7a6bb
 - 🤖 **Multi-agent orchestration** — transport, stay, activity, and budget agents run in parallel via `Promise.all`, each returning structured JSON candidates
 - 💬 **Conversational trip design** — free-text chat is parsed into a live Trip Brief (origin, budget, travelers, style, interests) with single-question follow-ups for whatever's missing
 - 🗺️ **Automatic trip classification** — Local / Within-State / Domestic / International, based on origin-destination distance and country
@@ -47,7 +26,6 @@ A multi-agent AI travel planner that turns natural-language trip requests into b
 - ⚖️ **Budget optimization with concrete swaps** — cheaper transport → cheaper stay → free-activity substitution → budget-tier food/local transport, applied in order until the plan fits
 - 🚫 **Honest infeasibility detection** — flags trips that can't realistically fit the stated budget and suggests concrete alternatives instead of silently under-reporting cost
 - 🔁 **Conversational refinement loop** — natural follow-up instructions ("no bus," "make it cheaper," "add comfort") re-optimize the existing plan without a full replan
-- 🧠 **LLM-ready architecture with heuristic fallback** — runs fully offline on scoring-based heuristics with zero API dependencies; an OpenAI-compatible integration point lets a real LLM take over option selection, day theming, and personalization when a key is configured
 - 🌍 **International trip notes** — currency, visa, and transport guidance surfaced automatically for cross-border trips
 - ⚡ Lightweight Node.js/Express API backing a React + Vite single-page frontend
 
