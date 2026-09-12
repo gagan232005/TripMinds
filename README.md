@@ -1,10 +1,4 @@
-# TripMinds
-
-Budget-first, multi-agent AI travel planner. Chat naturally about your trip and get a personalized, day-by-day itinerary that's built to fit your budget — not just guess at it.
-
-TripMinds turns a free-text conversation ("planning a 3-day Goa trip for 2, budget 8k, love beaches") into a structured Trip Brief, fans it out to specialized transport, stay, activity, and budget agents running in parallel, and fuses their output into one itinerary — auto-optimizing with concrete swaps whenever the plan runs over budget.
-
-Built for travelers who want a real plan with real numbers, not a vague list of "things to do."
+##TripMinds — A multi-agent AI travel planner that turns natural-language trip requests into budget-validated, day-by-day itineraries, using parallel specialist agents and a deterministic cost-optimization engine.
 
 ## 🛠️ Technology
 
