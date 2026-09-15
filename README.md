@@ -162,8 +162,5 @@ Built and maintained with ❤️ by **Gagan V**
 
 🔗 **GitHub:** [Gagan](https://github.com/gagan232005/)
 
-<<<<<<< HEAD
 > 🚀 **TripMinds is an independent project built to explore multi-agent system design, deterministic budget logic, and conversational UX for real-world trip planning.**
-=======
-> 🚀 **TripMinds is an independent project built to explore multi-agent system design, deterministic budget logic, and conversational UX for real-world trip planning.**
->>>>>>> 4bc70c7b05972a892e93c0590b431a77aac7a6bb
+
